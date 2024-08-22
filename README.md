@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahad Basalim</h1>
     <h3 align="center">Computer Engineering Graduate & Front End Web Developer 👩‍💻</h3>
-    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadbasalim&label=Profile%20views&color=0e75b6&style=flat" alt="shahadbasalim" /> </p>
     <p align="left"> <a href="https://twitter.com/sh21u" target="blank"><img src="https://img.shields.io/twitter/follow/sh21u?logo=twitter&style=for-the-badge" alt="sh21u" /></a> </p>
     - 🔭 I’m currently working on websites using HTML, CSS and JavaScript . <br>

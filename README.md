@@ -2,12 +2,12 @@
     <h3 align="center">Computer Engineering Graduate & Front End Web Developer 👩‍💻</h3>
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadbasalim&label=Profile%20views&color=0e75b6&style=flat" alt="shahadbasalim" /> </p>
     <p align="left"> <a href="https://twitter.com/sh21u" target="blank"><img src="https://img.shields.io/twitter/follow/sh21u?logo=twitter&style=for-the-badge" alt="sh21u" /></a> </p>
-    - 🔭 I’m currently working on websites using HTML, CSS and JavaScript . <br>
-    - 🌱 I’m currently learning Frameworks and SASS . <br>
+    - 🔭 I’m currently working on websites using HTML, CSS and JavaScript using React js framework . <br>
+    - 🌱 I’m currently learning Bootstrap, MUI and SASS . <br>
     - 👨‍💻 All of my projects are available at https://github.com/shahadbasalim?tab=repositories .<br>
-    - 💬 Ask me about HTML, CSS, JS. <br>
-    - 📫 How to reach me shahadbasalim@gmail.com .<br>
-    - 📄 Know about my experiences https://www.linkedin.com/in/shahadbasalim/ . <br>
+    - 💬 Ask me about anythings related to frontend web development <br>
+    - 📫 How to reach me? email: shahadbasalim@gmail.com .<br>
+    - 📄 Know about my experiences on linkenin https://www.linkedin.com/in/shahadbasalim/ . <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sh21u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sh21u" height="30" width="40" /></a>

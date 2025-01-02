@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadbasalim&label=Profile%20views&color=0e75b6&style=flat" alt="shahadbasalim" /> </p>
 
-- 🌱 I’m currently learning **React & MUI**
+- 🌱 I’m currently learning **React & WordPress**
 
 - 👯 I’m looking to collaborate with **software engineers on frontend development projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahadbasalim](https://github.com/shahadbasalim)
 
-- 💬 Ask me about **HTML, CSS, JS**
+- 💬 My portfolio **https://dev-shahad.netlify.app**
 
 - 📫 How to reach me **https://dev-shahad.netlify.app**
 

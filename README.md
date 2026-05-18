@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahadbasalim&label=Profile%20views&color=0e75b6&style=flat" alt="shahadbasalim" /> </p>
 
-- 🌱 I’m currently learning **React & WordPress**
+- 🌱 I’m currently working with **React, Next< and Angular**
 
 - 👯 I’m looking to collaborate with **software engineers on frontend development projects**
 
